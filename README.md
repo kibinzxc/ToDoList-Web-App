@@ -9,7 +9,7 @@ Scope:
 
 Limitation/s:
 
-- Uneditable
+- Inputted Tasks are uneditable
 - Title only, no description of tasks
 
 ## Preview
