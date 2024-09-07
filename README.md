@@ -16,4 +16,5 @@ Limitation/s:
 
 ![Image](src/assets/screenshot-1725670979398.png)
 
-Purely Made with: <img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="150">
+> Purely Made with:
+> <img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="150">
