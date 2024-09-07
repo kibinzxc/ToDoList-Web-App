@@ -19,8 +19,8 @@ Limitation/s:
 ### Made with:
 
 <p>
- <img src="src/assets/reactjs_logo_icon_170805.png/150/150">
- <img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp/100/100">
- <img src="src/assets/css-logo.png/100/100">
- <img src="src/assets/html-5-logo-png-transparent.png/100/100">
+ <img src="src/assets/reactjs_logo_icon_170805.png">
+ <img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp">
+ <img src="src/assets/css-logo.png">
+ <img src="src/assets/html-5-logo-png-transparent.png">
 </p>
