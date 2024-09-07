@@ -1,5 +1,6 @@
 # To-Do-List Web Application
 
-A simple To-Do-List web application , designed to efficiently manage and organize tasks.
+My first react project which is a simple To-Do-List web application , designed to efficiently manage and organize tasks.
 
-> this is my first react project
+Made with:
+[![Image](src/assets/reactjs_logo_icon_170805.png)]
