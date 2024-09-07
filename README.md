@@ -10,6 +10,7 @@ Scope:
 Limitation/s:
 
 - Uneditable
+- Title only, no description of tasks
 
 ## Preview
 
@@ -17,4 +18,4 @@ Limitation/s:
 
 ### Purely Made with:
 
-![Image](src/assets/reactjs_logo_icon_170805.png)
+<img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="150">
