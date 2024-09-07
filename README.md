@@ -18,11 +18,9 @@ Limitation/s:
 
 ### Made with:
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 0;"><img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="180"></td>
-    <td style="border: none; padding: 0;"><img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp" alt="JavaScript Logo" width="150"></td>
-    <td style="border: none; padding: 0;"><img src="src/assets/css-logo.png" alt="CSS Logo" width="100"></td>
-    <td style="border: none; padding: 0;"><img src="src/assets/html-5-logo-png-transparent.png" alt="HTML Logo" width="100"></td>
-  </tr>
-</table>
+<p>
+ <img src="src/assets/reactjs_logo_icon_170805.png/150/150">
+ <img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp/100/100">
+ <img src="src/assets/css-logo.png/100/100">
+ <img src="src/assets/html-5-logo-png-transparent.png/100/100">
+</p>
