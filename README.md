@@ -16,5 +16,9 @@ Limitation/s:
 
 ![Image](src/assets/screenshot-1725670979398.png)
 
-> Purely Made with:
-> <img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="150">
+### Made with:
+
+ <img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="150">
+ <img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp" alt="React Logo" width="150">
+ <img src="src/assets/css-logo.png" alt="React Logo" width="150">
+ <img src="src/assets/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" alt="React Logo" width="150">
