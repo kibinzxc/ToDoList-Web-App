@@ -20,6 +20,6 @@ Limitation/s:
 
 <p>
  <img src="src/assets/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React Logo" width="100" hspace="10" >
- <img src="src/assets/597-5977109_html5-css3-javascript-logos-html-css-icon-png.png" alt="" width="200" hspace="10">
+ <img src="src/assets/597-5977109_html5-css3-javascript-logos-html-css-icon-png.png" alt="" width="350" hspace="10">
 
 </p>
