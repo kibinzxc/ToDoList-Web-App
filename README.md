@@ -20,9 +20,9 @@ Limitation/s:
 
 <table style="border-collapse: collapse;">
   <tr>
-    <td><img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="180"></td>
-    <td><img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp" alt="JavaScript Logo" width="150"></td>
-    <td><img src="src/assets/css-logo.png" alt="CSS Logo" width="120"></td>
-    <td><img src="src/assets/html-5-logo-png-transparent.png" alt="HTML Logo" width="120"></td>
+    <td style="border: none; padding: 0;"><img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="180"></td>
+    <td style="border: none; padding: 0;"><img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp" alt="JavaScript Logo" width="150"></td>
+    <td style="border: none; padding: 0;"><img src="src/assets/css-logo.png" alt="CSS Logo" width="100"></td>
+    <td style="border: none; padding: 0;"><img src="src/assets/html-5-logo-png-transparent.png" alt="HTML Logo" width="100"></td>
   </tr>
 </table>
