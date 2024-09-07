@@ -20,7 +20,7 @@ Limitation/s:
 
 <p>
  <img src="src/assets/reactjs_logo_icon_170805.png" alt="React Logo" width="190">
- <img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp" alt="React Logo" width="150">
- <img src="src/assets/css-logo.png" alt="React Logo" width="100">
- <img src="src/assets/html-5-logo-png-transparent.png" alt="React Logo" width="100">
+ <img src="src/assets/javascript-logo-javascript-icon-transparent-free-png.webp" alt="" width="150">
+ <img src="src/assets/css-logo.png" alt="" width="100">
+ <img src="src/assets/html-5-logo-png-transparent.png" alt="" width="100">
 </p>
