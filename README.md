@@ -1,25 +1,33 @@
-# To-Do-List Web Application
+# ✅ To-Do List Web Application
 
-My first react project which is a simple To-Do-List web application , designed to efficiently manage and organize tasks.
+A simple and responsive To-Do List web application built with **React**. This is my first project using React, designed to help users efficiently manage and organize their daily tasks.
 
-Scope:
+## 📌 Scope
 
-- Add & Remove Tasks
-- Choose between tags
+- ➕ Add and remove tasks  
+- 🏷️ Tag selection per task (e.g., personal, work)
 
-Limitation/s:
+## ⚠️ Limitations
 
-- Inputted Tasks are uneditable
-- Title only, no description of tasks
+- ✏️ Tasks are not editable after creation  
+- 📝 Only task titles are supported (no description field)
 
-## Preview
+## 📷 Preview
 
-![Image](src/assets/screenshot-1725670979398.png)
+![Screenshot](src/assets/screenshot-1725670979398.png)
 
-### Made with:
+## 🛠️ Technologies Used
 
-<p>
- <img src="src/assets/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React Logo" width="100" hspace="10" >
- <img src="src/assets/597-5977109_html5-css3-javascript-logos-html-css-icon-png.png" alt="" width="350" hspace="10">
+- **React**  
+- HTML  
+- CSS  
+- JavaScript
 
-</p>
+## 🙌 Author
+
+**Kevin Daniel C. Almirante**  
+GitHub: [@kibinzxc](https://github.com/kibinzxc)
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE)
